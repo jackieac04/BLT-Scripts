@@ -19,7 +19,7 @@ def txt_to_excel(input_txt_file, output_excel_file):
 
 
 if __name__ == "__main__":
-    input_txt_file = "/Users/jaclyncohen/Desktop/birthRecords/Mailing-Only/September-Records/2023-09-28no_emails.txt"
+    input_txt_file = "/Users/jaclyncohen/Desktop/birthRecords/Mailing-Only/October-Records/2023-11-01no_emails.txt"
     output_excel_file = "output.xlsx"  # Desired name for the output Excel file
 
     txt_to_excel(input_txt_file, output_excel_file)
