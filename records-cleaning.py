@@ -17,7 +17,7 @@ file_date = today.strftime("%Y-%m-%d")
 # Annika's folder path
 # folder_path = "/Users/annika/Library/CloudStorage/GoogleDrive-annika_mcdermott-hinman@brown.edu/Shared drives/Brown CLPS Shared Dev Database/Recruitment/birth-records"
 # Jackie's foler path
-folder_path = "/Users/jaclyncohen/Desktop/birthRecords/newrecs/"
+folder_path = "/Users/jaclyncohen/Desktop/birthRecords/"
 
 symb = "@"
 
